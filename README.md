@@ -27,6 +27,9 @@ My academic focus lies at the intersection of **applied computer science, data s
 ## Professional Goals  
 I aim to **bridge the gap between technical and non-technical teams**, ensuring that data-driven solutions are not only methodologically sound but also **aligned with the needs of users and decision-makers**.  
 
+## 📫 Connect  
+[LinkedIn](https://www.linkedin.com/in/agustineyzaguirre-consulting-datascience-python/)
+
 ---
 
 ## What I Bring  
